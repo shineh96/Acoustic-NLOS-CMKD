@@ -8,7 +8,7 @@ Acoustic CMKD Overview
 
 Model Architecture
 -
-![](https://github.com/shineh96/Acoustic-NLOS-CMKD/main/images/Model_Architecture.JPG)
+![](https://github.com/shineh96/Acoustic-NLOS-CMKD/blob/main/images/Model_Architecture.JPG)
 
 
 Results
