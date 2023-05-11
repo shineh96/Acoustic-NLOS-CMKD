@@ -5,7 +5,7 @@ Ui-Hyeon Shin, Seungwoo Jang, Kwangsu Kim
 
 Acoustic CMKD Overview
 -
-![](https://github.com/shineh96/Acoustic-NLOS-CMKD.gitustic-NLOS-CMKD/origin/main/png/CMKD_Overview.JPG)
+![](https://github.com/shineh96/Acoustic-NLOS-CMKD.gitustic-NLOS-CMKD/origin/main/images/CMKD_Overview.JPG)
 
 Model Architecture
 -
