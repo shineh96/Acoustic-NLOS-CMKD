@@ -1,4 +1,4 @@
-# Acoustic NLOS Imaging with Cross-Modal Knowledge Distillation <br>
+## Acoustic NLOS Imaging with Cross-Modal Knowledge Distillation <br>
 Ui-Hyeon Shin, Seungwoo Jang, Kwangsu Kim
 
 Abstract
